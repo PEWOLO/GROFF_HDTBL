@@ -15,4 +15,4 @@ We need to create a macro that will be executed using the diversion .wh (when) m
 ..
 .wh 1c THEADER
 ```
-We create a custom macro named *THEADER* the set up the table heading row and executed our macro the .wh macro with the arguiment _1c_ which literally means, run this macro whe the page header is 1cm.  
+We created a custom macro named *THEADER* the set up the table heading row and executed our macro the .wh macro with the arguiment _1c_ which literally means, run this macro whe the page header is 1cm.  
