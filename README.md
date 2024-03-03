@@ -33,5 +33,5 @@ entries as possible for our table. It is better to put that table in another fil
 
 # Take a look at the example provided with the output pdf file.
 By the way, I used *awk* to generate the table entries found the _table.ms_ file.
-![screenshot.png](Screenshot of the output pdf file)
+![Screenshot of the output pdf file](screenshot.png)
  
