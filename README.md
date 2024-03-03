@@ -28,6 +28,7 @@ The last thing to do is to create a table making sure that we won't exceed the n
 .ETB
 .KE
 ..
+```
 entries as possible for our table. It is better to put that table in another file and just source it with the .so register in ouir main file.
 
 # Take a look the example provided with the output pdf file.
