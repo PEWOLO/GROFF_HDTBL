@@ -31,7 +31,7 @@ The last thing to do is to create a table making sure that we won't exceed the n
 ```
 entries as possible for our table. It is better to put that table in another file and just source it with the .so register in ouir main file.
 
-# Take a look the example provided with the output pdf file.
+# Take a look at the example provided with the output pdf file.
 By the way, I used *awk* to generate the table entries found the _table.ms_ file.
 
  
